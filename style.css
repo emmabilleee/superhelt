@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template: 10px;
+}
+img {
+  width: 90%;
+  height: auto;
+  margin: 10px;
+}
